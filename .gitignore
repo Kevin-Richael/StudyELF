@@ -1,0 +1,16 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.pch
+*.res
+*.ilk
+*.exe
+*.sdf
+*.ipch
+*.log
